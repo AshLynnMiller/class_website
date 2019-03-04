@@ -1,0 +1,5 @@
+---
+title: "Example class website"
+site: distill::distill_website
+listing: posts
+---

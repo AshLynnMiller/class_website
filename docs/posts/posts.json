@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to an Example Class Website",
+    "description": "Welcome to our new blog, Example Class Website. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Ashley L. Miller",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-03-04",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-03-04T10:57:23-08:00"
+  }
+]
